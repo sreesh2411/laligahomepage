@@ -1,0 +1,43 @@
+<style>
+    body, html {
+        margin: 0;
+        padding: 0;
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f4f4;
+    }
+
+    .navbar-brand img {
+        margin-right: 10px;
+    }
+
+    h2, h3 {
+        color: #333;
+    }
+
+    .py-5 {
+        padding-top: 2rem !important;
+        padding-bottom: 2rem !important;
+    }
+
+    .bg-light {
+        background-color: #f8f9fa!important;
+    }
+
+    .section-seasons {
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    .season-link {
+        margin: 0 10px;
+        color: #007bff;
+        text-decoration: none;
+        font-size: 18px;
+    }
+
+    .season-link:hover {
+        text-decoration: underline;
+    }
+
+    /* Add more styles here based on your preferences */
+</style>
